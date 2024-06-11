@@ -1,0 +1,134 @@
+body {
+  /* border: 1px solid red; */
+  margin: 0;
+  height: 100vh;
+  font-family: sans-serif;
+  background-image: url("https://img.freepik.com/premium-photo/roasted-coffee-beans-with-green-leaves-dark-background-top-view_795422-5261.jpg");
+  color: white;
+
+}
+
+.heading {
+  /* border: 1px solid red; */
+  text-align: center;
+  font-size: xx-large;
+}
+
+form {
+  /* border: 1px solid red; */
+  max-width: 600px;
+  min-width: 500px;
+  width: 80vw;
+  margin: 0 auto;
+  background-image: url("https://png.pngtree.com/background/20230410/original/pngtree-coffee-beans-leaves-wood-plank-background-picture-image_2385568.jpg");
+}
+
+.personal-details {
+/*   border: 1px solid purple; */
+  
+}
+
+.personal-details label {
+ /*  border: 2px solid green; */
+  display: block;
+ /*  margin-right: 10px; */
+  margin-top: 10px;
+}
+
+.personal-details label input {
+  /* border: 1px solid red; */
+  /* display: inline-block; */
+  height: 40px;
+
+}
+
+input, select {
+  /* border: 1px solid red; */
+  width: 100%;
+  margin: 10px 0 0 0;
+  background-color: burlywood;
+  color: white;
+  background-image: url("https://png.pngtree.com/background/20230410/original/pngtree-coffee-beans-leaves-wood-plank-background-picture-image_2385568.jpg");
+}
+
+.inline {
+  width: unset;
+}
+
+input[type="submit"] {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+input[type="checkbox"] {
+  width: unset;
+}
+
+.account-type {
+ /*  border: 1px solid red; */
+  margin: 10px 0;
+  padding: 20px;
+}
+
+.account-type label {
+  /* border: 1px solid orange; */
+  display: block;
+  margin-top: 10px;
+}
+
+.order {
+ /*  border: 1px solid red; */
+
+}
+
+.order label {
+  /* border: 1px solid orange; */
+  display: block;
+  margin: 20px 0;
+}
+
+.order input, .order select {
+  height: 40px;
+}
+
+div {
+ /*  border: 1px solid green; */
+  margin-top: 20px;
+  text-align: center;
+}
+
+a {
+  color: burlywood;
+}
+
+select option {
+  background-color: rgb(18, 10, 1);
+  font-size: 1.5em;
+}
+  
+
+footer {
+  /*  border: 1px solid green; */
+   background-image: url("https://img.freepik.com/premium-photo/roasted-coffee-beans-with-green-leaves-dark-background-top-view_795422-5261.jpg");
+   text-align: center;
+   display: flex;
+   justify-content: space-between;
+   margin-top: 0;
+   font-weight: bold;
+
+   
+}
+
+
+.home {
+  /*  border: 1px solid red; */
+   text-align: left;
+   padding: 10px 30px;
+}
+
+.contact {
+   /* border: 1px solid red; */
+   text-align: left;
+   padding: 10px 30px;
+}
+
